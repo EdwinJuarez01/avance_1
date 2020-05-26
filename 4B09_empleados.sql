@@ -1,0 +1,1 @@
+CREATE TABLE `mysql`.`empleados` ( `id_empleado` INT NOT NULL , `nombre_empleado` VARCHAR(100) NOT NULL , `direccion_empleado` VARCHAR(250) NOT NULL , `salario` INT(10) NOT NULL , PRIMARY KEY (`id_empleado`)) ENGINE = InnoDB;
